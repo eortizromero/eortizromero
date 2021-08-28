@@ -2,7 +2,7 @@
 
 I'm Software Developer with Python, Javascript and Web tools
 
-- 🔭 I’m currently working on Seguritech with ERP Odoo
+- 🔭 I’m currently working with ERP Odoo, Django and Flask
 
 - 💬 Ask me about ...
   - Python
