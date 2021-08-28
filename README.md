@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, my name is Edgardo Ortiz 👋
+
+I'm Software Developer with Python, Javascript and Web tools
+
+- 🔭 I’m currently working on Seguritech with ERP Odoo
+
+- 💬 Ask me about ...
+  - Python
+  - Javascript
+  - HTML5
+  - CSS
+  - Quasar
+  - VueJS
+
 
 <!--
 **eortizromero/eortizromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
