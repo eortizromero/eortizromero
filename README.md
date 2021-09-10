@@ -11,6 +11,9 @@ I'm Software Developer with Python, Javascript and Web tools
   - CSS
   - Quasar
   - VueJS
+  - Underscore
+  - Backbone
+  - PHP
 
 
 <!--
