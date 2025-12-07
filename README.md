@@ -14,12 +14,14 @@ I'm Software Developer with Python, Javascript and Web tools
   - Underscore
   - Backbone
   - PHP
-  - Odoo v10 to v17
+  - Odoo v10-v19 (Fullstack development)
   - XML
   - API's, Webservices
   - Google Cloud Platform
   - QWeb
   - OWL
+  - Windsurf editor (VibeCoding)
+  - Warp Terminal (IA)
 
 
 <!--
