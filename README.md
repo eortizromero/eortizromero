@@ -20,7 +20,7 @@ I'm Software Developer with Python, Javascript and Web tools
   - Google Cloud Platform
   - QWeb
   - OWL
-  - Windsurf editor (VibeCoding)
+  - Windsurf editor (VibeCoding) - Devin (now)
   - Warp Terminal (IA)
 
 
